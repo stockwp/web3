@@ -31,3 +31,4 @@ Package.onUse(function(api) {
 //   api.addFiles('test-tests.js');
 // });
 /* jshint ignore:end */
+/* 2018 end */
